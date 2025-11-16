@@ -21,6 +21,7 @@ Os notebooks estão organizados por estudo de caso:
 | Projeto | Descrição | Algoritmos e Conceitos |
 | :--- | :--- | :--- |
 | **[Classificação Titanic](Classificacao-Titanic/Classificacao_Titanic)** | O clássico problema do Kaggle para prever sobreviventes do Titanic. | Modelagem de Dados, Limpeza de Dados |
+| **[Modelagem de Dados - Titanic](Titanic_Modelagem_de_dados/Titanic_Modelagem_de_dados.ipynb)** | Comparação de modelos (RF, SVM, XGBoost) para prever sobreviventes. | RF, SVM, XGBoost, Pipeline, RandomizedSearchCV |
 | **[Classificação de Cogumelos](Classificacao-Cogumelos-SVM/Analise_Cogumelos_SVM.ipynb.ipynb)** | Análise para classificar cogumelos como comestíveis ou venenosos. | SVM (Support Vector Machine), One-Hot Encoding |
 | **[Classificação de Vinhos](Classificacao-Vinhos-RandomForest/FeatureEngineering_RandomForest_Wine.ipynb)** | Utiliza engenharia de features para classificar a qualidade de vinhos. | Random Forest, Feature Engineering |
 | **[Análise de Risco Cardíaco](Risco-Cardiaco-Framingham/Framing_Heart_Study.ipynb)** | Estudo do dataset Framingham Heart Study para identificar fatores de risco. | Regressão Logística, Análise de Correlação |
